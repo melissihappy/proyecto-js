@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tristeza</title>
+    <script src="index.js"></script>
+</head>
+<body style="background-color:#4682B4;">
+    <h1>El taller de los unicornios "Melissa"</h1>
+    <h2><a href="https://www.linkedin.com/in/claudia-melissa-oc%C3%B3n-467260235"><em>Sacamos al pájaro azul que habita en su cabeza</em> </a></h2>
+    <br> <p><strong> Instrucciones para desactivar el modo "Pobre"</strong></p>
+    <br><button onclick="clickeado()">Hacer transferencia</button>
+    <br>
+    <br><img src="https://mimo.app/r/hacker.png" height="400" width="400"> <img src="https://mimo.app/r/earth.png" height="400" width="400">
+</body>
+</html>
